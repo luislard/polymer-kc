@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-es6",
+  "main": "vanilla-es6.js",
+  "authors": [
+    "Luis Rosales <eng.luisrosales@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^2.2.0",
+    "webcomponentsjs": "^1.0.19"
+  }
+}
